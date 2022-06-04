@@ -1,4 +1,4 @@
-# Primeiro Repositorio dentro do GitHub
+# Primeiro repositório do Bootcamp Santandr Fullstack Developer
  Desafio da Dio Git/Github da Digital Inovation One (DIO.me)
 
 ## Links uteis 
