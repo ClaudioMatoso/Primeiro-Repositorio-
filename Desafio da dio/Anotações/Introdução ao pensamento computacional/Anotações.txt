@@ -1,15 +1,20 @@
-Link para baixar o git 
+Introdução à programação e ao pensamento Computacional  
 
-codigo usados dentro do git que são importante
+Algumas coisas importantes
 
-git clone (este comando serve para clonar o que tem dentro do github para dentro da sua pasta em seu computador)
+4 pilares 
 
-cd (nome do repositorio) (este comando serve para entrar dentro de uma pasta)
+Decomposição - Dividir um problema complexo em subproblemas
 
-git status (serve para ver se houve alguma alteração dentro dos arquivos ou pastas)
+Reconhecimento de padrões - Identificar padrões ou tendências
 
-git add . ou git add -A (Serve para considerar o novo documento para o controle de versão)
+Abstração - Extrapolar o conceito do problema para um forma generalista
 
-git commit 
+Design de algoritmos - Automatizar Definir passo a passo a solução do problema.
 
-git push origin main (serve para mandar os commit locais para a nuvem )
+Raciocinio logico- Raciocínio lógico é uma forma de pensamento estruturado, 
+ou raciocínio, 
+que permite encontrar a conclusão ou determinar a resolução
+de um problema.
+
+Classificação - indução, dedução, abdução
