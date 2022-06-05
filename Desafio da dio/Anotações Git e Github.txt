@@ -1,14 +1,14 @@
 Link para baixar o git 
 
-codigo usados dentro do git que s„o importante
+codigo usados dentro do git que s√£o importante
 
 git clone (este comando serve para clonar o que tem dentro do github para dentro da sua pasta em seu computador)
 
 cd (nome do repositorio) (este comando serve para entrar dentro de uma pasta)
 
-git status (serve para ver se houve alguma alteraÁ„o dentro dos arquivos ou pastas)
+git status (serve para ver se houve alguma altera√ß√£o dentro dos arquivos ou pastas)
 
-git add . ou git add -A (Serve para considerar o novo documento para o controle de vers„o)
+git add . ou git add -A (Serve para considerar o novo documento para o controle de vers√£o)
 
 git commit 
 
